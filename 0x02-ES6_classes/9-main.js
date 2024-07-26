@@ -1,6 +1,5 @@
 import listOfStudents from './9-hoisting';
 
-console.log("test");
 console.log(listOfStudents);
 
 const listPrinted = listOfStudents.map(
